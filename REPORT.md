@@ -1,5 +1,3 @@
-# REPORT.md
-
 # Amazon Sales Analytics Report
 
 ## Executive Summary
